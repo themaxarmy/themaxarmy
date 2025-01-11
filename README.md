@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CyberArk PAM Implementation**
 
-- 🌱 I’m currently learning **Systems Security Certified Practitioner bu ISC2**
+- 🌱 I’m currently learning **Systems Security Certified Practitioner by ISC2**
 
 - 👯 I’m looking to collaborate on **building robus secure infrastructure.**
 
